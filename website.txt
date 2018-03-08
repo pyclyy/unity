@@ -3,3 +3,16 @@ unity 3d shaderlab开发实战详解
 http://blog.csdn.net/candycat1992/article/details/39994049
 _WorldSpaceLightPos0
 http://blog.csdn.net/candycat1992/article/details/42460959
+
+
+
+
+
+
+
+Unity ShaderLab
+Unity例子
+Unity Editor
+NGUI
+Lua源码
+learn opengl
