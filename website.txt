@@ -2,7 +2,7 @@ http://blog.csdn.net/taoqilin/article/details/50242275
 <<<<<<< HEAD
 http://blog.csdn.net/candycat1992/article/details/42460959 unitylab����
 =======
-unity 3d shaderlab开发实战详解
+unity 3d shaderlab开发实战详�?
 http://blog.csdn.net/candycat1992/article/details/39994049
 _WorldSpaceLightPos0
 http://blog.csdn.net/candycat1992/article/details/42460959
@@ -20,6 +20,6 @@ Unity例子
 Unity Editor
 NGUI
 Lua源码及多语言交互
-learn opengl及矩阵推导
+learn opengl及矩阵推�?
 glsl
 >>>>>>> 648a664e71e860f751e2681e4cc9e5fc37a1e2a7
